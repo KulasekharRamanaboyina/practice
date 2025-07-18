@@ -1,4 +1,8 @@
 Welcome to github
 Hii this is Kulasekhar
 I am learning GitHub from Ashok It utube channel last night
+<<<<<<< HEAD
 Thank you sir
+=======
+That was a great experience learning from sir , He gave in depth knowledge.
+>>>>>>> bb0111c6cd2635ba9a1cef94097470b5e901b43a
